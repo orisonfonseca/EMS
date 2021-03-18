@@ -1,0 +1,121 @@
+
+
+.active11{
+    color:white;
+    background-color:rgb(255, 255, 255);
+    transition: 1s;
+}
+.chh:hover{
+    background-color:rgb(0, 0, 0);
+    color:white;
+}
+
+
+.form{
+    height: 45px;
+    border: none;
+    background-color: transparent;
+    resize: none;
+    outline: none;
+    border-bottom: 1px solid lightgreen;
+    width:280px;
+}
+
+.item{
+    background-color:lightgreen;
+    border-radius: 20px;
+    font-weight: bolder;
+    height: 50px;
+    font-size: 30px;
+}
+.faicons{
+    font-size: 20px;
+    color: red;
+}
+.id1{
+    width:220px;
+    border: transparent;
+    background-color:lightgreen;
+}
+
+
+.modal{
+    border: 1px solid tomato;
+}
+.bg-purple{
+    background-color: rgb(201, 27, 201);
+}
+.border{
+    border:5px solid white;
+    border-collapse: collapse;
+}
+#border th, #border td{
+    border: 3px solid #fff;
+  padding: 6px;
+  vertical-align: middle;
+} 
+#border tr:nth-child(even){background-color: #e7e7e7;}
+
+.card-body
+{height: 200px;
+width:300px;
+}
+.chh{
+    padding-bottom: 20px;
+    padding-top: 21px;
+    color:white;
+    font-size: 18px;
+    
+}
+.opac{
+    opacity: 1;
+}
+
+.wd{
+    width:20px;
+
+}
+
+
+ th{
+    background-color:rgb(255, 78, 78);
+    color:white;
+    height: 70px;
+    vertical-align: middle;
+
+}
+.but{
+    height: 25px;
+    width: 91px;
+    vertical-align: middle;
+    bottom: 50px;
+    border-radius: 50px;
+}
+.ask{
+    margin-left:50px;
+}
+
+.btn-info{
+    background-color: rgb(255, 255, 255);
+}
+.log{
+    color: rgb(241, 134, 34);
+    cursor: pointer;
+    font-size: 30px;
+}
+.btn{
+    color:#fff
+}
+#more {display: none;}
+
+
+.border{
+    border:5px solid white;
+    border-collapse: collapse;
+}
+#border th, #border td{
+    border: 3px solid #fff;
+  padding: 6px;
+  vertical-align: middle;
+} 
+#border thead:nth-child(even){background-color: #e7e7e7;}
